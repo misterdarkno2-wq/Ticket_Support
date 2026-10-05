@@ -1,0 +1,19 @@
+# Credenciales
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editores / sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Flet
+build/
+.flet/
